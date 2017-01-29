@@ -3,5 +3,6 @@
 default
 RemoteSystemsTempFiles
 algosrc
-algorithm_backjoon
+algorithm_baekjoon
 .DS_Store
+.vscode
